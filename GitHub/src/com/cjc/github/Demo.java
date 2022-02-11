@@ -6,4 +6,5 @@ public class Demo {
 		
 		
 		System.out.println("Method m1");
+	}
 }
