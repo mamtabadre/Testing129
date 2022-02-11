@@ -6,5 +6,8 @@ public class Demo {
 		
 		
 		System.out.println("Method m1");
+		System.out.println("Method m2");
+		
 	}
+	
 }
