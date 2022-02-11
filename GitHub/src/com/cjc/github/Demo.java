@@ -8,6 +8,6 @@ public class Demo {
 		System.out.println("Method m1");
 	public void m1()
 	{
-		System.out.println("m2")
+		System.out.println("m2");
 	}
 }
